@@ -1,0 +1,6 @@
+
+*SRC=6A10;DI_6A10;Diodes;Si;  1.00kV  6.00A  2.00us   Diodes Inc. 
+.MODEL DI_6A10 D  ( IS=52.4n RS=7.00m BV=1.00k IBV=10.0u
++ CJO=60.0p  M=0.333 N=1.70 TT=2.88u )
+
+
